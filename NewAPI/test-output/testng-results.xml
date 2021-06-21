@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7289" started-at="2021-06-15T10:01:11Z" finished-at="2021-06-15T10:01:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7289" started-at="2021-06-15T10:01:11Z" finished-at="2021-06-15T10:01:18Z">
+      <class name="org.testing.TestScripts.TC4">
+        <test-method status="PASS" signature="UpdateData()[pri:0, instance:org.testing.TestScripts.TC4@78e117e3]" name="UpdateData" duration-ms="768" started-at="2021-06-15T15:31:17Z" finished-at="2021-06-15T15:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateData -->
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC3">
+        <test-method status="PASS" signature="CreateData()[pri:0, instance:org.testing.TestScripts.TC3@1534f01b]" name="CreateData" duration-ms="743" started-at="2021-06-15T15:31:17Z" finished-at="2021-06-15T15:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateData -->
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC2">
+        <test-method status="PASS" signature="GetSpecificRecord()[pri:0, instance:org.testing.TestScripts.TC2@4ddced80]" name="GetSpecificRecord" duration-ms="2667" started-at="2021-06-15T15:31:14Z" finished-at="2021-06-15T15:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSpecificRecord -->
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC1">
+        <test-method status="PASS" signature="GetAllRecords()[pri:0, instance:org.testing.TestScripts.TC1@5c909414]" name="GetAllRecords" duration-ms="3031" started-at="2021-06-15T15:31:11Z" finished-at="2021-06-15T15:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllRecords -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
